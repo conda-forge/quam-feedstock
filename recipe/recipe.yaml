@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 0.4.2
+  version: "0.6.0"
 
 package:
   name: quam
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/quam/quam-${{ version }}.tar.gz
-  sha256: 0804833adc1813b41d78b14183ddec5135bc97d013fce2744041712e69e668a9
+  sha256: d090c47c03f2b0aef4fa806732061879f3b2e584a228851470f62c3ca4135a92
 
 build:
   number: 0
